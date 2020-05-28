@@ -19,3 +19,7 @@ The game is cycle based meaning that time is represented as cycles passing withi
 Simulation Components:
 
 There are different components in the game, each with special abilities, weaknesses, and goals. The game has a grid-based map representing the area covered in the rescue simulation. The map is occupied by buildings and citizens residing in said buildings. There are different disasters that can affect both buildings and citizens in different ways. Accordingly, there are different rescue units to be controlled by the player to handle said disasters.
+
+Created by Mina Ramses.
+
+Copyright © 2019 Mina Ramses. All rights reserved.
